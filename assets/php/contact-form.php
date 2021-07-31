@@ -1,6 +1,5 @@
 <?php
 
-header("Access-Control-Allow-Origin: *")
 
 	$name = trim($_POST['name']);
 	$email = trim($_POST['email']);
